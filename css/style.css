@@ -185,6 +185,7 @@ header{
   /* Cards! */
   .card {
     flex-basis: 225px;
+    align-items: center;
     /*Your  code here again.*/
   }
 
@@ -211,17 +212,22 @@ header{
   }
 
 @media print { 
+  body{ 
+    background-image: none;
+  }
   .card {
     flex-basis: 200px;
   }
   /*Your code here again.*/
   /*You will want four selectors*/  
-}
 .pricing {
   align-items: flex-start;
+}
+
   
 }
 
 /*Your code here again.*/ 
 /*Add media query to handle reduced-motion*/
+
 
