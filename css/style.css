@@ -223,10 +223,7 @@ header{
 .pricing {
   align-items: flex-start;
 }
-  .gallery {
-    display: none;
-  }
-  #gallery {
+  .gallery, #id {
     display: none;
   }
 
