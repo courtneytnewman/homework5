@@ -143,6 +143,7 @@ footer{
   display: flex;
   flex-wrap: wrap;
   min-height: 600px;
+  justify-content: center;
   /*Your code here again.*/
 }
 
