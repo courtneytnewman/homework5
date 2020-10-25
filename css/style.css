@@ -70,9 +70,7 @@ footer{
 #logo{
   animation-duration: 3s; 
   animation-name: logo_wiggle;
-  
-  
-   /*Your code here.*/
+     /*Your code here.*/
  
 }
 
@@ -224,13 +222,11 @@ header{
   /*Your code here again.*/
   /*You will want four selectors*/  
   .pricing {
-  align-items: flex-start;
+    align-items: flex-start;
   }
-  .gallery, #gallery {
+  .gallery, #id {
     display: none;
   }
-
-  
 }
 
 /*Your code here again.*/ 
