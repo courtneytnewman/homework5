@@ -224,7 +224,7 @@ header{
   .pricing {
     align-items: flex-start;
   }
-  .gallery, #gallery {
+  .gallery, #id {
     display: none;
   }
 }
