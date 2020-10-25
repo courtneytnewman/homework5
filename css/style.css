@@ -144,6 +144,7 @@ footer{
   flex-wrap: wrap;
   min-height: 600px;
   justify-content: center;
+  
   /*Your code here again.*/
 }
 
@@ -224,7 +225,7 @@ header{
   .pricing {
   align-items: flex-start;
   }
-  .gallery {
+  .gallery, #gallery {
     display: none;
   }
 
