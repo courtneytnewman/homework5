@@ -212,6 +212,7 @@ header{
   .nav_item a{
     padding: 10px;
   }
+}
 
 @media print { 
   body{ 
@@ -238,6 +239,7 @@ header{
     #logo{
       animation: none;
     }
+}
     
 
 
