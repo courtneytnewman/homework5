@@ -221,10 +221,10 @@ header{
   }
   /*Your code here again.*/
   /*You will want four selectors*/  
-.pricing {
+  .pricing {
   align-items: flex-start;
-}
-  .gallery, #id {
+  }
+  .gallery {
     display: none;
   }
 
@@ -233,5 +233,10 @@ header{
 
 /*Your code here again.*/ 
 /*Add media query to handle reduced-motion*/
+  @media screen and (pefers-reduced-motion: reduce){
+    #logo{
+      animation: none;
+    }
+    
 
 
